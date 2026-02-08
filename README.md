@@ -22,7 +22,7 @@ A simple weather prediction project built using **HTML, CSS, and JavaScript** th
 4. Open `index.html` in a browser
 
 ## 📸 Screenshots
-Screenshots are available in the `screenshots/` folder.
+![image alt](https://github.com/mdFarhanpinjare/Weather_prediction/blob/ba0acd8ce53b6c26ac603fede593449a7fd05a24/weather.png)
 
 ## 🔮 Future Enhancements
 - Improved UI with modern themes
